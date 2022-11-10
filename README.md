@@ -3,9 +3,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Sistemas Embarcados
-- 💬 Ask me about Microcontroladores
-- 😄 Pronouns: Ele
+- 🌱 I’m currently learning about Embedded Sistems and IA
+- 💬 Ask me about Microcontrollers
+- 😄 Pronouns: He
 
 
 ### Linguagens:
