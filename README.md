@@ -1,4 +1,4 @@
-### Olá me chamo Igor, estou em desenvolvimento das minhas capacidades como Dev para Web e Sistemas Embarcados.
+### Olá me chamo Igor, estou em desenvolvimento das minhas capacidades.
 
 Here are some ideas to get you started:
 
@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 ### Linguagens:
 <div style="display: inline_block"><br>
   <img align = "center" alt="Igor-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align = "center" alt="Igor-Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align = "center" alt="Igor-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align = "center" alt="Igor-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align = "center" alt="Igor-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align = "center" alt="Igor-Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 </div>
 
