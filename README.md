@@ -2,6 +2,11 @@
 
 No momento estou aprendendo sobre python para o desenvolvimento de sistemas de gerênciamento e Inteligencia artificial, em complemento também estou estudando a framewok Django para desenvolvimento WEB, além disso, na universidade estou trabalhando com microcontroladores ATmega e Esp.
 
+<br>
+
+  <img align = "left" src="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlxworks-ctrlxatomation-0Zi6WfpgMU2DNx731N">
+  
+<br>
 ### Linguagens:
 <div style="display: inline_block"><br>
   <img align = "center" alt="Igor-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
