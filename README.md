@@ -4,7 +4,7 @@ No momento estou aprendendo sobre python para o desenvolvimento de sistemas de g
 
 <br>
 
-  <img src="https://giphy.com/embed/0Zi6WfpgMU2DNx731N">
+  <img align = "center" src="[https://giphy.com/embed/0Zi6WfpgMU2DNx731N](https://media4.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif?cid=ecf05e472a9duz6zgyfg2zgeeffkfns07ky6bsh2ty8jtve8&rid=giphy.gif&ct=g)">
   
 <br>
 
