@@ -3,8 +3,8 @@
 No momento estou aprendendo sobre python para o desenvolvimento de sistemas de gerênciamento e Inteligencia artificial, em complemento também estou estudando a framewok Django para desenvolvimento WEB, além disso, na universidade estou trabalhando com microcontroladores ATmega e Esp.
 
 <br>
-
-  <img align = "center" src="https://media4.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif?cid=ecf05e472a9duz6zgyfg2zgeeffkfns07ky6bsh2ty8jtve8&rid=giphy.gif&ct=g" width="250" height="250">
+  !([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media4.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif?cid=ecf05e472a9duz6zgyfg2zgeeffkfns07ky6bsh2ty8jtve8&rid=giphy.gif&ct=g))
+  
   
 <br>
 
