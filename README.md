@@ -1,7 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap" rel="stylesheet"> 
-
 ### Olá me chamo Igor e estou em desenvolvimento das minhas capacidades como dev 🚀🚀🚀
 
 No momento estou aprendendo sobre python para o desenvolvimento de sistemas de gerênciamento e Inteligencia artificial, em complemento também estou estudando a framewok Django para desenvolvimento WEB, além disso, na universidade estou trabalhando com microcontroladores ATmega e Esp.
