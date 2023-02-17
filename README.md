@@ -1,12 +1,6 @@
-### Olá me chamo Igor, estou em desenvolvimento das minhas capacidades.
+### Olá me chamo Igor e estou em desenvolvimento das minhas capacidades como dev 🚀🚀🚀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning about Embedded Sistems and IA
-- 💬 Ask me about Microcontrollers
-- 😄 Pronouns: He
-
+No momento estou aprendendo sobre python para o desenvolvimento de sistemas de gerênciamento e Inteligencia artificial, em complemento também estou estudando a framewok Django para desenvolvimento WEB, além disso, na universidade estou trabalhando com microcontroladores ATmega e Esp.
 
 ### Linguagens:
 <div style="display: inline_block"><br>
