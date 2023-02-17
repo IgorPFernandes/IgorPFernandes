@@ -4,7 +4,7 @@ No momento estou aprendendo sobre python para o desenvolvimento de sistemas de g
 
 <br>
 
-  !(gif)[https://media4.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif?cid=ecf05e472a9duz6zgyfg2zgeeffkfns07ky6bsh2ty8jtve8&rid=giphy.gif&ct=g]
+  <iframe src="https://giphy.com/embed/0Zi6WfpgMU2DNx731N" width="480" height="215" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlxworks-ctrlxatomation-0Zi6WfpgMU2DNx731N">via GIPHY</a></p>
   
 <br>
 
