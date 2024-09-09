@@ -1,6 +1,6 @@
 ### Olá me chamo Igor e estou em desenvolvimento das minhas capacidades como dev 🚀🚀🚀
 
-No momento estou aprendendo sobre python para o desenvolvimento de sistemas de gerênciamento e Inteligencia artificial, em complemento também estou estudando a framewok Django para desenvolvimento WEB, além disso, na universidade estou trabalhando com microcontroladores ATmega e Esp.
+Atualmente, estou aprofundando meus conhecimentos em Python, focando no desenvolvimento de sistemas de gerenciamento e inteligência artificial. Paralelamente, estou explorando o framework Django para desenvolvimento web. Na universidade, também estou trabalhando com microcontroladores Arduino e ESP, aplicando esses conhecimentos em projetos práticos.
 
 <br>
   <img align = "center" src="https://media4.giphy.com/media/0Zi6WfpgMU2DNx731N/giphy.gif?cid=ecf05e472a9duz6zgyfg2zgeeffkfns07ky6bsh2ty8jtve8&rid=giphy.gif&ct=g">
