@@ -10,7 +10,7 @@ Atualmente, estou aprofundando meus conhecimentos em Python, focando no desenvol
 <div style="display: inline_block"><br>
   <img align = "center" alt="Igor-Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align = "center" alt="Igor-Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img align = "center" alt="Igor-Arduino" src="https://img.shields.io/badge/PostgreSQL-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img align = "center" alt="Igor-Arduino" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 #
